@@ -14,7 +14,7 @@
     <!-- aqui no head é o nome da aba URL -->
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Sistepad - Venda de Produtos</title>
+        <title>Sistepad - despesas</title>
     </head>
 
     <body>
