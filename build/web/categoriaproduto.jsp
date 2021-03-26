@@ -8,7 +8,7 @@
     <!-- aqui no head é o nome da aba URL -->
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Sistepad - Categoria de Produto</title>
+        <title>Sistepad - Categoria de Produtos</title>
     </head>
 
     <body>
