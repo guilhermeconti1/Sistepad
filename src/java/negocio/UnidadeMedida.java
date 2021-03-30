@@ -5,11 +5,11 @@
  */
 package negocio;
 
-
 public class UnidadeMedida {
- private int CodUnidadeMedida;
- private String nome;
-private String status; 
+
+    private int CodUnidadeMedida;
+    private String nome;
+    private String status;
 
     /**
      * @return the CodUnidadeMedida

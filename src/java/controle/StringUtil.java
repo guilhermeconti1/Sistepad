@@ -28,4 +28,13 @@ public class StringUtil {
         sb.reverse();
         return sb.toString();
     }
+        
+    public static boolean containsForbiddenWord(String s) {
+        return s.contains("gay");
+    }
+    
+     public static boolean containsNumber(String s) {
+        return s.contains("1");
+    }
+   
 }
